@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606299832 source:d:\infonow\vulpescu bianca\pbinfo_837\main.cpp
+	<iostream>
+	<fstream>
+
